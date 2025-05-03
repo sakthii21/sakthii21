@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Mern Stack projects**
 
-- 🤝 I’m looking for help with **Mern stacks**
+- 🤝 I’m looking for help with **Mern stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakthii21](https://github.com/sakthii21)
 
