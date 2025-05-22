@@ -6,7 +6,9 @@
 - 🤝 I’m looking for help with **Mern stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakthii21](https://github.com/sakthii21)
-
+  
+- portfolio: [https://sakthi2123-portfolio.netlify.app/](https://sakthi2123-portfolio.netlify.app/)
+  
 - 💬 Ask me about **Reactjs , javascript, expressjs , MongoDb**
 
 - 📫 How to reach me **sakthi.m2022cse@sece.ac.in**
