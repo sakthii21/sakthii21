@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakthi</h1>
 <h3 align="center">I am a passionate Full-Stack Developer with hands-on experience in building scalable and efficient web applications. With expertise in the MERN stack.</h3>
 
-
 - 👯 I’m looking to collaborate on **Mern Stack projects**
 
 - 🤝 I’m looking for help with **Mern stack**
