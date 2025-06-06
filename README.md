@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakthi</h1>
-<h3 align="center">I am a passionate Full-Stack Developer with hands-on experience in building scalable and efficient web applications. With expertise in the MERN stack.</h3>
+<h3 align="center">I am a passionate Full-Stack Developer with hands-on experience in building scalable and efficient web applications.</h3>
 
-- 👯 I’m looking to collaborate on **Mern Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
-- 🤝 I’m looking for help with **Mern stack**
+- 🤝 I’m looking for help with **Full stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakthii21](https://github.com/sakthii21)
   
